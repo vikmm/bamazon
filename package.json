@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/vikmm/bamazon/issues"
   },
-  "homepage": "https://github.com/vikmm/bamazon#readme"
+  "homepage": "https://github.com/vikmm/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  }
 }
