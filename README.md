@@ -5,4 +5,5 @@
 3. Choose the quantity that you would like.
 4. Make the transaction and see the total amount that it cost you. 
 
-![](https://giphy.com/gifs/xThtakGZE730eWXRni)
+[My bamazon homework](https://giphy.com/gifs/xThtakGZE730eWXRni)
+
